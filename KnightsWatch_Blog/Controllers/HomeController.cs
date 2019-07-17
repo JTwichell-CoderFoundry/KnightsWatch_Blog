@@ -21,7 +21,7 @@ namespace KnightsWatch_Blog.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application has a description page.";
 
             return View();
         }
